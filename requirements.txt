@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+beautifulsoup4
+selenium
+scikit-learn
+xgboost
+joblib
+matplotlib
+pyodbc
+azure-storage-blob
+python-dotenv
