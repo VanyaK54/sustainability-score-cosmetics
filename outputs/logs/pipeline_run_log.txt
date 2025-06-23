@@ -1,0 +1,6 @@
+[2025-06-23 11:00] Pipeline triggered by GitHub Action
+[2025-06-23 11:01] Model loaded from /models/sustainability_model.pkl
+[2025-06-23 11:01] New data scored successfully
+[2025-06-23 11:02] Output pushed to Azure Blob: sustainability/scored_data.csv
+[2025-06-23 11:03] Results inserted into Azure SQL Table: sustainability_scores
+[2025-06-23 11:04] Pipeline completed without errors
