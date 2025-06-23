@@ -1,0 +1,7 @@
+| product\_id | brand\_name | product\_name      | ingredients\_list                                                  | packaging\_material | product\_url                                                                     |
+| ----------- | ----------- | ------------------ | ------------------------------------------------------------------ | ------------------- | -------------------------------------------------------------------------------- |
+| 101         | EcoBeauty   | Herbal Moisturizer | Aqua, Glycerin, Aloe Barbadensis Leaf Juice, Sodium Benzoate       | Recyclable Plastic  | [https://example.com/herbal-moisturizer](https://example.com/herbal-moisturizer) |
+| 102         | GreenGlow   | Vegan Face Cream   | Water, Caprylic/Capric Triglyceride, Cetearyl Alcohol, Fragrance   | Glass Jar           | [https://example.com/vegan-face-cream](https://example.com/vegan-face-cream)     |
+| 103         | PureNature  | Natural Serum      | Aqua, Butyrospermum Parkii (Shea Butter), Phenoxyethanol, Limonene | Plastic Tube        | [https://example.com/natural-serum](https://example.com/natural-serum)           |
+| 104         | NatureEss   | Organic Toner      | Aqua, Rosa Damascena Flower Water, Glycerin, Sodium Benzoate       | Recycled PET Bottle | [https://example.com/organic-toner](https://example.com/organic-toner)           |
+| 105         | EarthSkin   | Botanical Cleanser | Water, Decyl Glucoside, Aloe Vera Juice, Potassium Sorbate         | Biodegradable Pouch | [https://example.com/botanical-cleanser](https://example.com/botanical-cleanser) |

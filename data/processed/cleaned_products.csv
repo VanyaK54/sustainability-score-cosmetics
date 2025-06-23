@@ -1,0 +1,7 @@
+| product\_id | brand\_name | ingredient\_score | packaging\_score | sustainability\_score |
+| ----------- | ----------- | ----------------- | ---------------- | --------------------- |
+| 101         | EcoBeauty   | 8.2               | 9.0              | 8.6                   |
+| 102         | GreenGlow   | 6.5               | 8.5              | 7.5                   |
+| 103         | PureNature  | 7.0               | 5.0              | 6.0                   |
+| 104         | NatureEss   | 8.8               | 8.2              | 8.5                   |
+| 105         | EarthSkin   | 9.1               | 9.5              | 9.3                   |
