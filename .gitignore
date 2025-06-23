@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
+
+# Model and Data Artifacts
+/models/
+*.pkl
+/data/processed/
+outputs/reports/
+outputs/logs/
+*.pbix
+*.pdf
+*.png
